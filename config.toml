@@ -93,3 +93,8 @@ pygmentCodeFences = true
     name = "Tags"
     url = "tags"
     weight = 3
+
+[[menu.main]]
+    name = "سهام"
+    url = "saham/"
+    weight = 3
