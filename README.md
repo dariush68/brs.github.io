@@ -1,5 +1,5 @@
 ![Build Status](https://gitlab.com/pages/hugo/badges/master/build.svg)
-
+ 
 ---
 
 Example [Hugo] website using GitLab Pages.
