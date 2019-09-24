@@ -2,7 +2,7 @@
 title: دتماد
 date: 1398-06-31
 font: IRANSansMobile
-tags: ["دتماد", "سهامداری"]
+tags: ["دتماد", "سهامداری", "دارویی"]
 ---
 
 <div align="center">
@@ -17,14 +17,16 @@ tags: ["دتماد", "سهامداری"]
 | 13.67 | P/E صنعت | مواد و محصولات دارویی | صنعت |
 | 14.76 | P/E| 1831 | EPS|
 | 500 M | تعداد کل سهام شرکت |  18% | سهام شناور |
+|  |  |  2.712 M | میانگین حجم ماه |
 
 **محصولات و فروش**
 
 {{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/img/Detamad/detamad_products.PNG" caption="محصولات" >}}
-  {{< figure thumb="-thumb" link="/img/Detamad/detamad_trend.png" caption="فروش" alt="-" >}}
-{{< /gallery >}}
+  {{< figure  link="/img/Detamad/detamad_products.PNG" caption="محصولات" >}}
+  {{< figure  link="/img/Detamad/detamad_trend.png" caption="فروش" alt="-" >}}
+{{< /gallery >}} 
 {{< load-photoswipe >}}
+
 
 **موج شماری**
 
@@ -42,10 +44,10 @@ tags: ["دتماد", "سهامداری"]
 ```
 1398 / 06 / 18
 ```
+<h1 id=980618></h1>
 
 {{< figure src="/img/Detamad/detamad_chart_980618.PNG" title="" >}}
 
-<p dir="rtl">
 از سقف استاتیک موج 3 عبور کرده و این سقف تبدیل به حمایت شده است.
 کانال تشکیل شده را نیز شکسته و بالا رفته است.
 در میکروموج ها یا در موج 5 هستیم یا در موج 3:3
