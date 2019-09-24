@@ -2,6 +2,7 @@
 title: دابور
 date: 1398-06-31
 font: IRANSansMobile
+tags: ["دابور", "سهامداری"]
 ---
 
 <div align="center">
